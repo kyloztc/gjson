@@ -1,5 +1,5 @@
 # gjson
-基于go encoding/json开发的json工具库
+基于golang encoding/json开发的json工具库
 ## 工具一览
 ### ExtractValueFromJson
 从json字符串中取出指定key的value值
